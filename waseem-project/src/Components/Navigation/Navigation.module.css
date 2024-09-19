@@ -1,0 +1,27 @@
+
+
+.navigation ul {
+    position: absolute;
+    left: 645px;
+    top: 39px;
+    /* width: 524px;
+    height: 28px; */
+    display: flex;
+    gap: 24px;
+    list-style-type: none;
+    font-weight: 500;
+}
+
+.logo {
+    position: absolute;
+    left: 142px;
+    top: 21px;
+    width: 68.43px;
+    height: 68.43px;
+    display: flex;
+}
+
+.list {
+    width: 524px;
+    height: 28px;
+}
